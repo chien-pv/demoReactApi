@@ -4,7 +4,7 @@ import LisTodo from "./components/list_todo";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <LisTodo />
     </div>
   );

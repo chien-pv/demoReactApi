@@ -8,6 +8,12 @@ function Item({ id, name, status }) {
         <button type="button" class="btn btn-outline-primary">
           Show
         </button>
+        <button type="button" class="btn btn-outline-danger">
+          Delete
+        </button>
+        <button type="button" class="btn btn-outline-info">
+          Edit
+        </button>
       </td>
     </tr>
   );
